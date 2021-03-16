@@ -46,3 +46,6 @@ button {
     color: red;
     font-size: 10px;
 }
+.name-input, .city-input{
+    margin-right: 15px;
+}
