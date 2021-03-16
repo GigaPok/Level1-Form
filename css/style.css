@@ -51,4 +51,10 @@ button {
 .name-input, .city-input{
     margin-right: 15px;
 }
+table, th, td {
+    border: 1px solid black;
+  }
+  table{
+    border-collapse: collapse;
+  }
 
