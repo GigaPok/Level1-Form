@@ -2,6 +2,9 @@
 .d-flex{
     display: flex;
 }
+* {
+    outline: none;
+}
 
 .contact-input, .checkbox {
     display: flex;
@@ -49,3 +52,4 @@ button {
 .name-input, .city-input{
     margin-right: 15px;
 }
+
